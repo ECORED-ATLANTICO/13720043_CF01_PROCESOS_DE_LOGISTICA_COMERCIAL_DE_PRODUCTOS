@@ -6,14 +6,14 @@ export default {
     imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
     fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
     imagenesDecorativasBanner: [
-      // {
-      //   clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-      //   imagen: '@/assets/curso/portada/banner-principal-decorativo-1.svg',
-      // },
-      // {
-      //   clases: ['banner-principal-decorativo-2', 'd-none', 'd-lg-block'],
-      //   imagen: '@/assets/curso/portada/banner-principal-decorativo-2.svg',
-      // }
+      {
+        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
+        imagen: '@/assets/curso/portada/banner-principal-decorativo-2.svg',
+      },
+      {
+        clases: ['banner-principal-decorativo-2', 'd-none', 'd-lg-block'],
+        imagen: '@/assets/curso/portada/banner-principal-decorativo-1.svg',
+      },
     ],
   },
   menuPrincipal: {
