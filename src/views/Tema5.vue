@@ -175,7 +175,10 @@
         .cajon.bg-color-04.p-4
           p.mb-0 La integración de instrucciones y confirmaciones por voz permite organizar la recolección de mercancías, reducir errores y mantener actualizada la información de los pedidos durante su preparación.
 
-    //- subitulo
+    .container
+      .titulo-con-imagen.mb-4(data-aos="fade-right")
+        .titulo-con-imagen__fondo
+          h3.titulo-con-imagen__texto Beneficios de los sistemas de voz
 
     .row.mb-lg-5.mb-4.justify-content-center.align-items-center
       .col-lg-3.col-md-8.mb-4.mb-lg-0.order-1.order-lg-1
