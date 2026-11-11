@@ -30,32 +30,32 @@
       .col-lg-8.order-2.order-lg-1.col-md-12.mb-0.mb-lg-0
         SlyderF(columnas="col-lg-12 col-xl-6 col-md-12 col-sm-12 p-3")
           .tarjeta.bg-fondo-05.p-4.h-100.br-15
-            img(src='@/assets/curso/tema1/img04.svg', alt='', style="max-width: 90px;").mx-auto.mb-3
+            .circulo-letra.mx-auto.mb-3 A.
             h4.text-center Recepción del pedido
             p.text-center.mb-0 Se recibe y registra la solicitud del cliente, identificando los productos, las cantidades y las condiciones de entrega.
 
           .tarjeta.bg-fondo-05.p-4.h-100.br-15
-            img(src='@/assets/curso/tema1/img05.svg', alt='', style="max-width: 90px;").mx-auto.mb-3
+            .circulo-letra.mx-auto.mb-3 B.
             h4.text-center Localización de productos
             p.text-center.mb-0 Se identifican las ubicaciones de los productos en el almacén mediante los registros de inventario y los sistemas de información disponibles.
 
           .tarjeta.bg-fondo-05.p-4.h-100.br-15
-            img(src='@/assets/curso/tema1/img06.svg', alt='', style="max-width: 90px;").mx-auto.mb-3
+            .circulo-letra.mx-auto.mb-3 C.
             h4.text-center Selección y recolección
             p.text-center.mb-0 Se realiza el <em>picking</em>, que consiste en recoger los productos solicitados siguiendo los procedimientos y recorridos establecidos.
 
           .tarjeta.bg-fondo-05.p-4.h-100.br-15
-            img(src='@/assets/curso/tema1/img07.svg', alt='', style="max-width: 90px;").mx-auto.mb-3
+            .circulo-letra.mx-auto.mb-3 D.
             h4.text-center Verificación del pedido
             p.text-center.mb-0 Se comprueba que los productos seleccionados correspondan con la solicitud del cliente en referencias, cantidades y condiciones.
 
           .tarjeta.bg-fondo-05.p-4.h-100.br-15
-            img(src='@/assets/curso/tema1/img08.svg', alt='', style="max-width: 90px;").mx-auto.mb-3
+            .circulo-letra.mx-auto.mb-3 E.
             h4.text-center Embalaje y etiquetado
             p.text-center.mb-0 Se acondicionan y protegen los productos para su transporte, incorporando la identificación y la información necesaria para su distribución.
 
           .tarjeta.bg-fondo-05.p-4.h-100.br-15
-            img(src='@/assets/curso/tema1/img09.svg', alt='', style="max-width: 90px;").mx-auto.mb-3
+            .circulo-letra.mx-auto.mb-3 F.
             h4.text-center Traslado al área de despacho
             p.text-center.mb-0 Los pedidos preparados se organizan y trasladan al área correspondiente para continuar con el proceso de distribución.
 
@@ -128,7 +128,7 @@
           .col-lg-auto.d-none.d-lg-flex
             img(src="@/assets/curso/tema1/img16.svg", style="max-width: 150px").mx-auto
           .col-lg
-            p.mb-0 La ejecución coordinada de estas operaciones permite controlar la salida de mercancías, reducir errores y optimizar los tiempos de despacho. Para fortalecer este proceso, las organizaciones utilizan herramientas tecnológicas como los sistemas de gestión de almacenes (Warehouse Management System, WMS), los códigos de barras, las terminales de radiofrecuencia (RF) y los dispositivos móviles, que facilitan el registro de movimientos, la actualización de inventarios y la trazabilidad de los productos.
+            p.mb-0 La ejecución coordinada de estas operaciones permite controlar la salida de mercancías, reducir errores y optimizar los tiempos de despacho. Para fortalecer este proceso, las organizaciones utilizan herramientas tecnológicas como los sistemas de gestión de almacenes (<em>Warehouse Management Sy</em>stem, WMS), los códigos de barras, las terminales de radiofrecuencia (RF) y los dispositivos móviles, que facilitan el registro de movimientos, la actualización de inventarios y la trazabilidad de los productos.
 
 
     
@@ -329,7 +329,7 @@
           .row.justify-content-start.align-items-center.bg-fondo-16.p-3.p-md-4.position-relative.h-100
             .col-lg-7.col-md-7.col-sm-8.col-12.z-2
               h4.mb-2 Lectura sugerida. Sistemas de almacenaje y <em>picking</em>
-              p.mb-3 Se invita al aprendiz a profundizar en fundamentos de la preparación de pedidos, a través la lectura de siguiente texto (Página 238 – 252).
+              p.mb-3 Se invita al aprendiz a profundizar en fundamentos de la preparación de pedidos, a través la lectura de siguiente texto (Página 238-252).
 
               a.boton.color-acento-botones(:href="'https://gc.scalahed.com/recursos/files/r161r/w25735w/LIBROAlmacen.pdf'" target="_blank")
                 span Ir al recurso

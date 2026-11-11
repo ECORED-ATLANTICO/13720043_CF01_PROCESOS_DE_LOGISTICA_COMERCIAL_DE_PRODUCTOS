@@ -31,9 +31,7 @@
         .col-lg-12.col-md-12
           .row.align-items-center.bg-fondo-07.p-4
             .col-lg-12
-              p.mb-0 Finalmente, profundiza en la gestión de pedidos mediante el estudio del ciclo del pedido, los métodos de preparación, la consolidación, la verificación y las rutas de alistamiento, integrando indicadores para el seguimiento y control del desempeño logístico, con el propósito de organizar eficientemente las operaciones de preparación y despacho de mercancías conforme a los procedimientos establecidos por la organización.
-
-    p.mb-4 En logística, las características de cada mercancía determinan las condiciones necesarias para su identificación, manipulación, almacenamiento y despacho. Por ello, es fundamental conocer sus especificaciones, seleccionar los equipos adecuados y aplicar procedimientos que garanticen su integridad y conservación durante las operaciones.
+              p.mb-0 En logística, las características de cada mercancía determinan las condiciones necesarias para su identificación, manipulación, almacenamiento y despacho. Por ello, es fundamental conocer sus especificaciones, seleccionar los equipos adecuados y aplicar procedimientos que garanticen su integridad y conservación durante las operaciones.
 
     
     .container

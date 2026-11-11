@@ -12,7 +12,7 @@
       img(src="@/assets/curso/tema3/img01.png", alt="")
     .row.justify-content-center.align-items-center.z-2.mb-4
       .col-lg-10(data-aos="fade-right")
-        p.banner-text La documentación logística constituye el soporte administrativo y operativo de las actividades de preparación y despacho de mercancías. Su correcta elaboración, verificación y conservación garantiza la trazabilidad de los productos, facilita el control de las operaciones y asegura el cumplimiento de los procedimientos. establecidos por la organización y la normatividad aplicable. 
+        p.banner-text La documentación logística constituye el soporte administrativo y operativo de las actividades de preparación y despacho de mercancías. Su correcta elaboración, verificación y conservación garantiza la trazabilidad de los productos, facilita el control de las operaciones y asegura el cumplimiento de los procedimientos establecidos por la organización y la normatividad aplicable. 
 
     separador
     

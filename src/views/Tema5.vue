@@ -255,7 +255,7 @@
         .tarjeta.bg-fondo-21.p-3.p-md-4.mb-4
           .row.justify-content-around.align-items-center.p-2
             .col-12.col-md-12.col-lg-7.col-xl-8.mb-3.mb-md-2.order-2.order-md-1
-              h4.mb-2 Lectura sugerida. Código de barras 2D en el punto de venta Retail
+              h4.mb-2 Lectura sugerida. Código de barras 2D en el punto de venta <em>Retail</em>
               p.mb-0 Para profundizar en los sistemas de identificación automática de productos, se recomienda consultar la guía de GS1 Colombia sobre códigos de barras bidimensionales (2D). Este material permite ampliar los conocimientos sobre su aplicación en la identificación y trazabilidad de mercancías.
             .col-12.col-md-auto.text-start.text-md-start.text-lg-center.order-3.order-md-2
               a.boton.color-acento-botones(:href="'https://gs1co.org/sites/default/files/libreria-archivos/guia-inicio-codigo-barras-2d-en-punto-venta-retail-gs1-colombia.pdf'" target="_blank")
