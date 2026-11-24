@@ -128,7 +128,7 @@
           .col-lg-auto.d-none.d-lg-flex
             img(src="@/assets/curso/tema1/img16.svg", style="max-width: 150px").mx-auto
           .col-lg
-            p.mb-0 La ejecución coordinada de estas operaciones permite controlar la salida de mercancías, reducir errores y optimizar los tiempos de despacho. Para fortalecer este proceso, las organizaciones utilizan herramientas tecnológicas como los sistemas de gestión de almacenes (<em>Warehouse Management Sy</em>stem, WMS), los códigos de barras, las terminales de radiofrecuencia (RF) y los dispositivos móviles, que facilitan el registro de movimientos, la actualización de inventarios y la trazabilidad de los productos.
+            p.mb-0 La ejecución coordinada de estas operaciones permite controlar la salida de mercancías, reducir errores y optimizar los tiempos de despacho. Para fortalecer este proceso, las organizaciones utilizan herramientas tecnológicas como los sistemas de gestión de almacenes (<em>Warehouse Management System</em>, WMS), los códigos de barras, las terminales de radiofrecuencia (RF) y los dispositivos móviles, que facilitan el registro de movimientos, la actualización de inventarios y la trazabilidad de los productos.
 
 
     
