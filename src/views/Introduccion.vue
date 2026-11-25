@@ -12,7 +12,7 @@
       .col-lg-auto.d-none.d-lg-flex
         img(src="@/assets/curso/intro/img01.svg", style="max-width: 120px").mx-auto
       .col-lg
-        p.mb-0 El componente formativo Preparación de pedidos y despacho desarrolla los fundamentos técnicos y operativos necesarios para comprender la organización de los procesos de preparación de pedidos y el despacho de mercancías dentro de la gestión logística.
+        p.mb-0 El componente formativo Preparación de pedidos y despacho de mercancías desarrolla los fundamentos técnicos y operativos necesarios para comprender la organización de los procesos de preparación de pedidos y el despacho de mercancías dentro de la gestión logística.
 
 
     .row.mb-lg-4.mb-4.justify-content-center.align-items-center
