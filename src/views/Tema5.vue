@@ -66,7 +66,7 @@
         .col-lg-auto.order-1
           img.d-none.d-lg-flex(src="@/assets/curso/tema5/img05.svg", style="max-width: 150px").mx-auto
         .col-lg.order-2
-          p.mb-0 Dependiendo de las necesidades de la organización, los lectores pueden ser manuales, inalámbricos, fijos o integrados en dispositivos móviles. Algunos utilizan tecnología láser, mientras que otros emplean sensores de imagen capaces de leer tanto códigos de barras tradicionales como códigos bidimensionales (QR Code).
+          p.mb-0 Dependiendo de las necesidades de la organización, los lectores pueden ser manuales, inalámbricos, fijos o integrados en dispositivos móviles. Algunos utilizan tecnología láser, mientras que otros emplean sensores de imagen capaces de leer tanto códigos de barras tradicionales como códigos bidimensionales (códigos QR).
 
     p.mb-4 La utilización de lectores de códigos mejora la productividad del personal operativo, ya que elimina la necesidad de ingresar manualmente la información de cada producto. Además, permite verificar inmediatamente si el artículo corresponde al pedido solicitado.
 

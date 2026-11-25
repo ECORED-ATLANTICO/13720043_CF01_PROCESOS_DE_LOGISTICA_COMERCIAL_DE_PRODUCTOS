@@ -329,7 +329,7 @@
           .row.justify-content-start.align-items-center.bg-fondo-16.p-3.p-md-4.position-relative.h-100
             .col-lg-7.col-md-7.col-sm-8.col-12.z-2
               h4.mb-2 Lectura sugerida. Sistemas de almacenaje y <em>picking</em>
-              p.mb-3 Se invita al aprendiz a profundizar en fundamentos de la preparación de pedidos, a través la lectura de siguiente texto (Página 238-252).
+              p.mb-3 Se invita al aprendiz a profundizar en fundamentos de la preparación de pedidos, a través de la lectura del siguiente texto (Páginas 238-252).
 
               a.boton.color-acento-botones(:href="'https://gc.scalahed.com/recursos/files/r161r/w25735w/LIBROAlmacen.pdf'" target="_blank")
                 span Ir al recurso

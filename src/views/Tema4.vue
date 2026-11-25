@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require_src('@/assets/curso/tema4/img01.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Conocer las características de los materiales y mercancías permite realizar una adecuada preparación de pedidos y un despacho seguro.  Su correcta clasificación, identificación y manipulación ayuda a minimizar riesgos y conservar los productos durante el proceso logístico.
+        p.mb-0 Conocer las características de los materiales y mercancías permite realizar una adecuada preparación de pedidos y un despacho seguro.  Su correcta clasificación, identificación y manipulación ayudan a minimizar riesgos y conservar los productos durante el proceso logístico.
 
     separador
     
@@ -241,7 +241,7 @@
           .row.justify-content-start.align-items-center.bg-fondo-16.p-3.p-md-4.position-relative.h-100
             .col-lg-7.col-md-7.col-sm-8.col-12.z-2
               h4.mb-2 Lectura sugerida. Logística y distribución física internacional: clave en las operaciones de comercio exterior
-              p.mb-3 Se invita al aprendiz a profundizar en especificaciones de materiales y mercancías, tal como se muestra en el siguiente artículo (página 15-22). 
+              p.mb-3 Se invita al aprendiz a profundizar en especificaciones de materiales y mercancías, tal como se muestra en el siguiente artículo (páginas 15-22). 
 
               a.boton.color-acento-botones(:href="'https://bibliotecadigital.ccb.org.co/server/api/core/bitstreams/e528749a-bd0c-49fa-9e29-5e690478af0d/content'" target="_blank")
                 span Ir al recurso

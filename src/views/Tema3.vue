@@ -33,7 +33,7 @@
             .col-lg.order-2
               p.mb-0 Estos documentos son fundamentales para garantizar la trazabilidad de las mercancías, ya que permiten registrar y consultar información sobre su recepción, almacenamiento, despacho y entrega. Asimismo, facilitan el control interno, la atención de reclamaciones y el cumplimiento de los procedimientos establecidos por la organización.
 
-    p.mb-4 Actualmente, muchas empresas utilizan sistemas de planificación de recursos empresariales (Enterprise Resource Planning, ERP) y sistemas de gestión de almacenes (Warehouse Management System, WMS) para administrar digitalmente sus documentos, reducir errores y mejorar la disponibilidad de la información.
+    p.mb-4 Actualmente, muchas empresas utilizan sistemas de planificación de recursos empresariales (<em>Enterprise Resource Planning</em>, ERP) y sistemas de gestión de almacenes (<em>Warehouse Management System</em>, WMS) para administrar digitalmente sus documentos, reducir errores y mejorar la disponibilidad de la información.
 
     
     .container
@@ -228,7 +228,7 @@
             .col-lg-auto.order-1
               img.d-none.d-lg-flex(src="@/assets/curso/tema3/img11.svg", style="max-width: 150px").mx-auto
             .col-lg.order-2
-              p.mb-0 Incluyen comprobantes de recepción, registros de despacho, actas de inspección, fotografías, reportes de sistemas y confirmaciones electrónicas de entrega. Su adecuada organización y conservación facilita el control interno, las auditorías, la atención de reclamaciones y el cumplimiento de los requisitos legales aplicables.
+              p.mb-0 Incluyen comprobantes de recepción, registros de despacho, actas de inspección, fotografías, reportes de sistemas y confirmaciones electrónicas de entrega. Su adecuada organización y conservación facilitan el control interno, las auditorías, la atención de reclamaciones y el cumplimiento de los requisitos legales aplicables.
 
         p.mb-0 Actualmente, los sistemas de gestión documental permiten almacenar, consultar y proteger estos registros, mejorando la disponibilidad de la información y reduciendo el uso de documentos impresos.
 
@@ -250,7 +250,7 @@
         .col-xl-6.col-lg-6.col-md-12.col-12.mb-0.p-4
           .row.justify-content-start.align-items-center.bg-fondo-15.p-3.p-md-4.position-relative.h-100
             .col-lg-7.col-md-7.col-sm-8.col-12.z-2
-              h4.mb-2 Video sugerido. Optimiza la logística de tu deposito, aprovechando al máximo las posibilidades del ERP y el WMS
+              h4.mb-2 Video sugerido. Optimice la logística de su depósito, aprovechando al máximo las posibilidades del ERP y el WMS
               p.mb-3 A continuación, lo invitamos a consultar el siguiente video para fortalecer los conocimientos relacionados con documentación para la preparación y despacho.
 
               a.boton.color-acento-botones(:href="'https://www.youtube.com/watch?v=poILG3vwohk'" target="_blank")
@@ -261,7 +261,7 @@
           .row.justify-content-start.align-items-center.bg-fondo-16.p-3.p-md-4.position-relative.h-100
             .col-lg-7.col-md-7.col-sm-8.col-12.z-2
               h4.mb-2 Lectura sugerida. Gestión de almacenes y tecnologías de la información y comunicación (TIC)
-              p.mb-3 Se invita al aprendiz a profundizar en documentación para la preparación y despacho, a través del siguiente artículo (página 11 – 13).
+              p.mb-3 Se invita al aprendiz a profundizar en documentación para la preparación y despacho, a través del siguiente artículo (páginas 11 – 13).
 
               a.boton.color-acento-botones(:href="'https://www.icesi.edu.co/revistas/index.php/estudios_gerenciales/es/article/view/385/pdf'" target="_blank")
                 span Ir al recurso

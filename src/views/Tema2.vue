@@ -238,7 +238,7 @@
               h4.mb-2 Video sugerido. Estrategias en operaciones logísticas
               p.mb-3 A continuación, lo invitamos a consultar el siguiente video para fortalecer los conocimientos relacionados con organización logística y contexto empresarial.
 
-              a.boton.color-acento-botones(:href="'https://www.youtube.com/watch?v=zlfzD4XGyKU&t=2538s'" target="_blank")
+              a.boton.color-acento-botones(:href="'https://youtu.be/zlfzD4XGyKU?si=yAa1RNJI0KaYXKts'" target="_blank")
                 span Ir al recurso
             img(src="@/assets/curso/tema1/img30.png", alt="", style="position: absolute; bottom: -20px; right: 20px; width: 220px; pointer-events: none;").d-none.d-lg-flex
 

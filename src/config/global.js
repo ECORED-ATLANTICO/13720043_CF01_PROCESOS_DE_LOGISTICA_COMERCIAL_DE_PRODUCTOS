@@ -417,13 +417,13 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
-          centro: 'Centro Agroturístico - Regional Santander',
+            'Responsable Nacional Ecosistema de Recursos Educativos Digitales (RED) - Profesional 06',
+          centro: 'Centro Agroturístico – Regional Santander',
         },
         {
           nombre: 'Miguel De Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
@@ -431,13 +431,13 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Mario Morales Cabrera',
-          cargo: 'Experto temático logística',
+          nombre: 'Sergio Andrés Quintero Guzmán',
+          cargo: 'Experto Temático Logística',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Jair Coll Gallardo',
-          cargo: 'Experto temático comercio y servicio',
+          nombre: 'María Fernanda Morales Angulo',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
@@ -448,22 +448,22 @@ export default {
         {
           nombre: 'Carmen Alicia Martínez Torres',
           cargo: 'Diseñadora de contenidos digitales',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
           nombre: 'Álvaro Guillermo Araújo Angarita',
           cargo: 'Desarrollador <em>full stack</em>',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
           nombre: 'Alexander Rafael Acosta Bedoya',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
           nombre: 'Nelson Iván Vera Briceño',
           cargo: 'Animador y productor audiovisual',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
@@ -473,22 +473,22 @@ export default {
         {
           nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluadora de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
           nombre: 'Karine Isabel Ospino Fritz',
           cargo: 'Evaluadora de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
-        },
-        {
-          nombre: 'Luis Gabriel Urueta',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
           nombre: 'Laura Daniela Burgos Rueda',
           cargo: 'Validadora y vinculadora de recursos educativos digitales',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
+        },
+        {
+          nombre: 'Luis Gabriel Urueta',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },
